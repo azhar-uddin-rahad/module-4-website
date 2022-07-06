@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+.flexible-continear{
+    display: flex;
+
+}
+.ex-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+
+
+}
+#full{
+    border-left: 7px solid tomato;
+
+}
+
+#babi{
+    border-left: 7px solid blue;
+}
+.expriences{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
